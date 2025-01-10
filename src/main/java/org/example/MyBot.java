@@ -1505,10 +1505,10 @@ public class MyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "@TraditionalFoods_bot";
+        return "@newTraditionalFoods_bot";
     }
     @Override
     public String getBotToken() {
-        return "8031906374:AAE1dSUbd3AA8o237CcZnghF67DIYDofyb4";
+        return "7669371696:AAFS31UVkdrt2T8QyNMt2a6mdcSFguA-yNE";
     }
 }
